@@ -1,0 +1,45 @@
+/* recipes.css */
+
+body {
+    background-color: #aaa;
+    font-family: Verdana, sans-serif;
+    font-size: 16pt;
+    width: 100%;
+}
+
+body ul li {
+    list-style-type: none;
+}
+
+body ol li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    text-align:center;
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+#container {
+    width: 980px;
+    margin: 20px auto 20px auto;
+    padding: 50px 20px;
+    background-color: white;
+    color: black;  
+    border: 1px solid black;
+}
+
+#container p {
+    margin: 20px;
+    font-style: italic;
+    
+}
