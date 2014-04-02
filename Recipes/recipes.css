@@ -45,3 +45,11 @@ h3 {
     font-style: italic;
     
 }
+
+#container img {
+    clear: left;
+    float: right;
+    width: 200px;
+    margin: 20px;
+    
+}
